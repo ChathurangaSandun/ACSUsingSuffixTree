@@ -1,0 +1,760 @@
+Data set/1 V00654.txt        Data set/2 X61145.txt
+* - 1.2330088480378696
+--- 3.313391923904419 seconds ---
+
+Data set/1 V00654.txt        Data set/3 X72204.txt
+* - 1.2219411100101343
+--- 6.58420991897583 seconds ---
+
+Data set/1 V00654.txt        Data set/4 X63726.txt
+* - 1.2446031153338952
+--- 9.846520900726318 seconds ---
+
+Data set/1 V00654.txt        Data set/5 X72004.txt
+* - 1.217062683546128
+--- 13.172879934310913 seconds ---
+
+Data set/1 V00654.txt        Data set/6 U20653.txt
+* - 1.2558976446213903
+--- 16.383654832839966 seconds ---
+
+Data set/1 V00654.txt        Data set/7 X79547.txt
+* - 1.2393109844514987
+--- 19.60493803024292 seconds ---
+
+Data set/1 V00654.txt        Data set/8 X97336.txt
+* - 1.2256831381462243
+--- 22.904775857925415 seconds ---
+
+Data set/1 V00654.txt        Data set/9 V00711.txt
+* - 1.2470960309310755
+--- 26.07051992416382 seconds ---
+
+Data set/1 V00654.txt        Data set/10 X14848.txt
+* - 1.2649877382939296
+--- 29.20974588394165 seconds ---
+
+Data set/1 V00654.txt        Data set/11 D38112.txt
+* - 1.2759315590582996
+--- 32.32194995880127 seconds ---
+
+Data set/1 V00654.txt        Data set/12 D38113.txt
+* - 1.2829904239570555
+--- 35.41213893890381 seconds ---
+
+Data set/1 V00654.txt        Data set/13 D38116.txt
+* - 1.2785427695788425
+--- 38.57338190078735 seconds ---
+
+Data set/1 V00654.txt        Data set/14 D38114.txt
+* - 1.2892699041051552
+--- 41.62754487991333 seconds ---
+
+Data set/1 V00654.txt        Data set/15 D38115.txt
+* - 1.2940974793357178
+--- 44.673702001571655 seconds ---
+
+Data set/1 V00654.txt        Data set/16 X97707.txt
+* - 1.2928235404030168
+--- 47.74888300895691 seconds ---
+
+Data set/1 V00654.txt        Data set/17 X99256.txt
+* - 1.3032914416022465
+--- 50.79003691673279 seconds ---
+
+Data set/1 V00654.txt        Data set/18 Z29573.txt
+* - 1.2751204662357685
+--- 53.96578884124756 seconds ---
+
+Data set/1 V00654.txt        Data set/19 Y10524.txt
+* - 1.2706175640978121
+--- 57.50379490852356 seconds ---
+
+Data set/1 V00654.txt        Data set/20 X83427.txt
+* - 1.2994805003945262
+--- 60.76260495185852 seconds ---
+
+Data set/2 X61145.txt        Data set/3 X72204.txt
+* - 0.7318065479566208
+--- 66.70181202888489 seconds ---
+
+Data set/2 X61145.txt        Data set/4 X63726.txt
+* - 1.2529739161494517
+--- 69.91508889198303 seconds ---
+
+Data set/2 X61145.txt        Data set/5 X72004.txt
+* - 1.2607630780361276
+--- 73.12636590003967 seconds ---
+
+Data set/2 X61145.txt        Data set/6 U20653.txt
+* - 1.2487054783912515
+--- 76.39318084716797 seconds ---
+
+Data set/2 X61145.txt        Data set/7 X79547.txt
+* - 1.2175952939839
+--- 79.72954392433167 seconds ---
+
+Data set/2 X61145.txt        Data set/8 X97336.txt
+* - 1.2300216575693965
+--- 83.02888202667236 seconds ---
+
+Data set/2 X61145.txt        Data set/9 V00711.txt
+* - 1.2882406591312816
+--- 86.10005784034729 seconds ---
+
+Data set/2 X61145.txt        Data set/10 X14848.txt
+* - 1.2887394654769575
+--- 89.18374300003052 seconds ---
+
+Data set/2 X61145.txt        Data set/11 D38112.txt
+* - 1.2923355084428696
+--- 92.24991583824158 seconds ---
+
+Data set/2 X61145.txt        Data set/12 D38113.txt
+* - 1.2930155978695836
+--- 95.36862683296204 seconds ---
+
+Data set/2 X61145.txt        Data set/13 D38116.txt
+* - 1.2989927867149518
+--- 98.47432684898376 seconds ---
+
+Data set/2 X61145.txt        Data set/14 D38114.txt
+* - 1.2991968646949572
+--- 101.50397396087646 seconds ---
+
+Data set/2 X61145.txt        Data set/15 D38115.txt
+* - 1.3069056990111008
+--- 104.52661490440369 seconds ---
+
+Data set/2 X61145.txt        Data set/16 X97707.txt
+* - 1.3097365240998693
+--- 107.54225301742554 seconds ---
+
+Data set/2 X61145.txt        Data set/17 X99256.txt
+* - 1.3103299446251064
+--- 110.59100484848022 seconds ---
+
+Data set/2 X61145.txt        Data set/18 Z29573.txt
+* - 1.3193861807316303
+--- 113.64016485214233 seconds ---
+
+Data set/2 X61145.txt        Data set/19 Y10524.txt
+* - 1.307417828770415
+--- 116.73485994338989 seconds ---
+
+Data set/2 X61145.txt        Data set/20 X83427.txt
+* - 1.3260721668757132
+--- 119.78251791000366 seconds ---
+
+Data set/3 X72204.txt        Data set/4 X63726.txt
+* - 1.243624736669077
+--- 123.36505889892578 seconds ---
+
+Data set/3 X72204.txt        Data set/5 X72004.txt
+* - 1.2377824120457297
+--- 126.77547287940979 seconds ---
+
+Data set/3 X72204.txt        Data set/6 U20653.txt
+* - 1.2477568234997847
+--- 130.06030106544495 seconds ---
+
+Data set/3 X72204.txt        Data set/7 X79547.txt
+* - 1.2161821195042883
+--- 133.37464904785156 seconds ---
+
+Data set/3 X72204.txt        Data set/8 X97336.txt
+* - 1.2182104190424563
+--- 136.72902703285217 seconds ---
+
+Data set/3 X72204.txt        Data set/9 V00711.txt
+* - 1.2745852038767862
+--- 139.82822489738464 seconds ---
+
+Data set/3 X72204.txt        Data set/10 X14848.txt
+* - 1.2817618921142366
+--- 142.89239597320557 seconds ---
+
+Data set/3 X72204.txt        Data set/11 D38112.txt
+* - 1.2922097285411476
+--- 145.97757983207703 seconds ---
+
+Data set/3 X72204.txt        Data set/12 D38113.txt
+* - 1.2876975275902396
+--- 149.06827187538147 seconds ---
+
+Data set/3 X72204.txt        Data set/13 D38116.txt
+* - 1.2972654339591974
+--- 152.13594603538513 seconds ---
+
+Data set/3 X72204.txt        Data set/14 D38114.txt
+* - 1.2964852134560738
+--- 155.1841058731079 seconds ---
+
+Data set/3 X72204.txt        Data set/15 D38115.txt
+* - 1.298241221929675
+--- 158.24527287483215 seconds ---
+
+Data set/3 X72204.txt        Data set/16 X97707.txt
+* - 1.305842732085067
+--- 161.28142499923706 seconds ---
+
+Data set/3 X72204.txt        Data set/17 X99256.txt
+* - 1.3065547900439356
+--- 164.3220820426941 seconds ---
+
+Data set/3 X72204.txt        Data set/18 Z29573.txt
+* - 1.3131737156311898
+--- 167.41227102279663 seconds ---
+
+Data set/3 X72204.txt        Data set/19 Y10524.txt
+* - 1.2969706117998199
+--- 170.54449105262756 seconds ---
+
+Data set/3 X72204.txt        Data set/20 X83427.txt
+* - 1.3195333250394286
+--- 173.60265588760376 seconds ---
+
+Data set/4 X63726.txt        Data set/5 X72004.txt
+* - 0.6760912856670416
+--- 180.4835319519043 seconds ---
+
+Data set/4 X63726.txt        Data set/6 U20653.txt
+* - 1.1653109199124492
+--- 184.0835828781128 seconds ---
+
+Data set/4 X63726.txt        Data set/7 X79547.txt
+* - 1.2251234823253339
+--- 187.6466088294983 seconds ---
+
+Data set/4 X63726.txt        Data set/8 X97336.txt
+* - 1.2395802122010906
+--- 191.32371497154236 seconds ---
+
+Data set/4 X63726.txt        Data set/9 V00711.txt
+* - 1.2832890691425365
+--- 194.4399218559265 seconds ---
+
+Data set/4 X63726.txt        Data set/10 X14848.txt
+* - 1.2827390862583603
+--- 197.60116291046143 seconds ---
+
+Data set/4 X63726.txt        Data set/11 D38112.txt
+* - 1.302770271275027
+--- 200.70336198806763 seconds ---
+
+Data set/4 X63726.txt        Data set/12 D38113.txt
+* - 1.289535089178689
+--- 203.82207202911377 seconds ---
+
+Data set/4 X63726.txt        Data set/13 D38116.txt
+* - 1.2988421568592332
+--- 206.9452838897705 seconds ---
+
+Data set/4 X63726.txt        Data set/14 D38114.txt
+* - 1.3070158966956598
+--- 210.0234649181366 seconds ---
+
+Data set/4 X63726.txt        Data set/15 D38115.txt
+* - 1.3095262614226981
+--- 213.09114003181458 seconds ---
+
+Data set/4 X63726.txt        Data set/16 X97707.txt
+* - 1.308064982509456
+--- 216.2168550491333 seconds ---
+
+Data set/4 X63726.txt        Data set/17 X99256.txt
+* - 1.3084764688248431
+--- 219.29553699493408 seconds ---
+
+Data set/4 X63726.txt        Data set/18 Z29573.txt
+* - 1.32483118569335
+--- 222.43876385688782 seconds ---
+
+Data set/4 X63726.txt        Data set/19 Y10524.txt
+* - 1.301242974306965
+--- 225.61701488494873 seconds ---
+
+Data set/4 X63726.txt        Data set/20 X83427.txt
+* - 1.3280365045648757
+--- 228.74373197555542 seconds ---
+
+Data set/5 X72004.txt        Data set/6 U20653.txt
+* - 1.2079732291748204
+--- 232.2261998653412 seconds ---
+
+Data set/5 X72004.txt        Data set/7 X79547.txt
+* - 1.2365224724945574
+--- 235.5870819091797 seconds ---
+
+Data set/5 X72004.txt        Data set/8 X97336.txt
+* - 1.2062540791334766
+--- 238.99849891662598 seconds ---
+
+Data set/5 X72004.txt        Data set/9 V00711.txt
+* - 1.2659503783757746
+--- 242.1782510280609 seconds ---
+
+Data set/5 X72004.txt        Data set/10 X14848.txt
+* - 1.279345753889834
+--- 245.39252996444702 seconds ---
+
+Data set/5 X72004.txt        Data set/11 D38112.txt
+* - 1.2923647520036603
+--- 248.55677199363708 seconds ---
+
+Data set/5 X72004.txt        Data set/12 D38113.txt
+* - 1.291214307101129
+--- 251.78457188606262 seconds ---
+
+Data set/5 X72004.txt        Data set/13 D38116.txt
+* - 1.2937379015589578
+--- 255.36009097099304 seconds ---
+
+Data set/5 X72004.txt        Data set/14 D38114.txt
+* - 1.295415131462707
+--- 258.51282596588135 seconds ---
+
+Data set/5 X72004.txt        Data set/15 D38115.txt
+* - 1.3010840660177074
+--- 261.59551191329956 seconds ---
+
+Data set/5 X72004.txt        Data set/16 X97707.txt
+* - 1.3042363188742345
+--- 264.66518688201904 seconds ---
+
+Data set/5 X72004.txt        Data set/17 X99256.txt
+* - 1.2988148741432277
+--- 267.76488399505615 seconds ---
+
+Data set/5 X72004.txt        Data set/18 Z29573.txt
+* - 1.3090080219762434
+--- 270.8991029262543 seconds ---
+
+Data set/5 X72004.txt        Data set/19 Y10524.txt
+* - 1.2835805480729523
+--- 274.1063759326935 seconds ---
+
+Data set/5 X72004.txt        Data set/20 X83427.txt
+* - 1.3208333550567244
+--- 277.2220849990845 seconds ---
+
+Data set/6 U20653.txt        Data set/7 X79547.txt
+* - 1.2188476528595347
+--- 280.5974769592285 seconds ---
+
+Data set/6 U20653.txt        Data set/8 X97336.txt
+* - 1.2354753469047242
+--- 283.9548559188843 seconds ---
+
+Data set/6 U20653.txt        Data set/9 V00711.txt
+* - 1.2756526669503039
+--- 287.1170959472656 seconds ---
+
+Data set/6 U20653.txt        Data set/10 X14848.txt
+* - 1.2825502694385484
+--- 290.27533292770386 seconds ---
+
+Data set/6 U20653.txt        Data set/11 D38112.txt
+* - 1.3012787174311722
+--- 293.3720290660858 seconds ---
+
+Data set/6 U20653.txt        Data set/12 D38113.txt
+* - 1.3043334960741872
+--- 296.5142538547516 seconds ---
+
+Data set/6 U20653.txt        Data set/13 D38116.txt
+* - 1.2992438486795195
+--- 299.6399710178375 seconds ---
+
+Data set/6 U20653.txt        Data set/14 D38114.txt
+* - 1.3133440798240552
+--- 302.7116458415985 seconds ---
+
+Data set/6 U20653.txt        Data set/15 D38115.txt
+* - 1.313534140464482
+--- 305.7663109302521 seconds ---
+
+Data set/6 U20653.txt        Data set/16 X97707.txt
+* - 1.3185562545863772
+--- 308.82498002052307 seconds ---
+
+Data set/6 U20653.txt        Data set/17 X99256.txt
+* - 1.3151027513232387
+--- 311.9026608467102 seconds ---
+
+Data set/6 U20653.txt        Data set/18 Z29573.txt
+* - 1.3231692094620984
+--- 315.02687406539917 seconds ---
+
+Data set/6 U20653.txt        Data set/19 Y10524.txt
+* - 1.3067795947426126
+--- 318.4047658443451 seconds ---
+
+Data set/6 U20653.txt        Data set/20 X83427.txt
+* - 1.3249755946939858
+--- 321.9808008670807 seconds ---
+
+Data set/7 X79547.txt        Data set/8 X97336.txt
+* - 1.1495737041492515
+--- 325.63789200782776 seconds ---
+
+Data set/7 X79547.txt        Data set/9 V00711.txt
+* - 1.2836585395562166
+--- 328.7345869541168 seconds ---
+
+Data set/7 X79547.txt        Data set/10 X14848.txt
+* - 1.2544768917879714
+--- 331.89932894706726 seconds ---
+
+Data set/7 X79547.txt        Data set/11 D38112.txt
+* - 1.2843072148259262
+--- 335.0490629673004 seconds ---
+
+Data set/7 X79547.txt        Data set/12 D38113.txt
+* - 1.2789816005675942
+--- 338.20780086517334 seconds ---
+
+Data set/7 X79547.txt        Data set/13 D38116.txt
+* - 1.284239843058228
+--- 341.3545320034027 seconds ---
+
+Data set/7 X79547.txt        Data set/14 D38114.txt
+* - 1.2957343065188247
+--- 344.4282100200653 seconds ---
+
+Data set/7 X79547.txt        Data set/15 D38115.txt
+* - 1.2853508313848228
+--- 347.5319080352783 seconds ---
+
+Data set/7 X79547.txt        Data set/16 X97707.txt
+* - 1.296519472383458
+--- 350.634605884552 seconds ---
+
+Data set/7 X79547.txt        Data set/17 X99256.txt
+* - 1.2918125763439656
+--- 353.75131487846375 seconds ---
+
+Data set/7 X79547.txt        Data set/18 Z29573.txt
+* - 1.3149162291144934
+--- 356.87052392959595 seconds ---
+
+Data set/7 X79547.txt        Data set/19 Y10524.txt
+* - 1.302878036590432
+--- 359.9937379360199 seconds ---
+
+Data set/7 X79547.txt        Data set/20 X83427.txt
+* - 1.3226596128056551
+--- 363.0914318561554 seconds ---
+
+Data set/8 X97336.txt        Data set/9 V00711.txt
+* - 1.2658080015456334
+--- 366.2641830444336 seconds ---
+
+Data set/8 X97336.txt        Data set/10 X14848.txt
+* - 1.2724376950803788
+--- 369.4119119644165 seconds ---
+
+Data set/8 X97336.txt        Data set/11 D38112.txt
+* - 1.284633451812173
+--- 372.5626440048218 seconds ---
+
+Data set/8 X97336.txt        Data set/12 D38113.txt
+* - 1.2894218587807826
+--- 375.71137499809265 seconds ---
+
+Data set/8 X97336.txt        Data set/13 D38116.txt
+* - 1.2929293266731383
+--- 378.8636109828949 seconds ---
+
+Data set/8 X97336.txt        Data set/14 D38114.txt
+* - 1.289564239204546
+--- 382.0008330345154 seconds ---
+
+Data set/8 X97336.txt        Data set/15 D38115.txt
+* - 1.2826902406301035
+--- 385.5668590068817 seconds ---
+
+Data set/8 X97336.txt        Data set/16 X97707.txt
+* - 1.286570290960233
+--- 388.87270188331604 seconds ---
+
+Data set/8 X97336.txt        Data set/17 X99256.txt
+* - 1.2990292326681339
+--- 391.9894118309021 seconds ---
+
+Data set/8 X97336.txt        Data set/18 Z29573.txt
+* - 1.3007460832982916
+--- 395.2051908969879 seconds ---
+
+Data set/8 X97336.txt        Data set/19 Y10524.txt
+* - 1.2957933868837876
+--- 398.34791588783264 seconds ---
+
+Data set/8 X97336.txt        Data set/20 X83427.txt
+* - 1.316771851350203
+--- 401.4832329750061 seconds ---
+
+Data set/9 V00711.txt        Data set/10 X14848.txt
+* - 1.129088395087424
+--- 405.08078384399414 seconds ---
+
+Data set/9 V00711.txt        Data set/11 D38112.txt
+* - 1.3074623428150653
+--- 408.08441400527954 seconds ---
+
+Data set/9 V00711.txt        Data set/12 D38113.txt
+* - 1.307226861462873
+--- 411.09804797172546 seconds ---
+
+Data set/9 V00711.txt        Data set/13 D38116.txt
+* - 1.304886591666294
+--- 414.1442060470581 seconds ---
+
+Data set/9 V00711.txt        Data set/14 D38114.txt
+* - 1.3108486300428481
+--- 417.13232588768005 seconds ---
+
+Data set/9 V00711.txt        Data set/15 D38115.txt
+* - 1.3153757474719776
+--- 420.116938829422 seconds ---
+
+Data set/9 V00711.txt        Data set/16 X97707.txt
+* - 1.3177303767214812
+--- 423.09955191612244 seconds ---
+
+Data set/9 V00711.txt        Data set/17 X99256.txt
+* - 1.3158338037990247
+--- 426.1041820049286 seconds ---
+
+Data set/9 V00711.txt        Data set/18 Z29573.txt
+* - 1.25483470779061
+--- 429.34497904777527 seconds ---
+
+Data set/9 V00711.txt        Data set/19 Y10524.txt
+* - 1.267703338432791
+--- 432.5192279815674 seconds ---
+
+Data set/9 V00711.txt        Data set/20 X83427.txt
+* - 1.2891419883737356
+--- 435.65695095062256 seconds ---
+
+Data set/10 X14848.txt        Data set/11 D38112.txt
+* - 1.2974742320563015
+--- 438.7206230163574 seconds ---
+
+Data set/10 X14848.txt        Data set/12 D38113.txt
+* - 1.2892674594718683
+--- 441.83032488822937 seconds ---
+
+Data set/10 X14848.txt        Data set/13 D38116.txt
+* - 1.28897032632969
+--- 444.9030029773712 seconds ---
+
+Data set/10 X14848.txt        Data set/14 D38114.txt
+* - 1.3096468906211114
+--- 447.92614698410034 seconds ---
+
+Data set/10 X14848.txt        Data set/15 D38115.txt
+* - 1.2870693724183422
+--- 451.3335609436035 seconds ---
+
+Data set/10 X14848.txt        Data set/16 X97707.txt
+* - 1.3003825573533754
+--- 454.59937596321106 seconds ---
+
+Data set/10 X14848.txt        Data set/17 X99256.txt
+* - 1.3123474880745432
+--- 457.6460349559784 seconds ---
+
+Data set/10 X14848.txt        Data set/18 Z29573.txt
+* - 1.291806669667056
+--- 460.78425788879395 seconds ---
+
+Data set/10 X14848.txt        Data set/19 Y10524.txt
+* - 1.2682218640343133
+--- 463.94749784469604 seconds ---
+
+Data set/10 X14848.txt        Data set/20 X83427.txt
+* - 1.31179975346772
+--- 467.02518105506897 seconds ---
+
+Data set/11 D38112.txt        Data set/12 D38113.txt
+* - 0.8615734190100113
+--- 472.20384883880615 seconds ---
+
+Data set/11 D38112.txt        Data set/13 D38116.txt
+* - 0.8592620955884136
+--- 477.26843786239624 seconds ---
+
+Data set/11 D38112.txt        Data set/14 D38114.txt
+* - 0.9375966255991295
+--- 481.90722489356995 seconds ---
+
+Data set/11 D38112.txt        Data set/15 D38115.txt
+* - 1.1016532353580528
+--- 485.70891785621643 seconds ---
+
+Data set/11 D38112.txt        Data set/16 X97707.txt
+* - 1.0331340993511844
+--- 489.8003180027008 seconds ---
+
+Data set/11 D38112.txt        Data set/17 X99256.txt
+* - 1.1132128845961478
+--- 493.55598187446594 seconds ---
+
+Data set/11 D38112.txt        Data set/18 Z29573.txt
+* - 1.3367316795948474
+--- 496.67268800735474 seconds ---
+
+Data set/11 D38112.txt        Data set/19 Y10524.txt
+* - 1.3017430689910707
+--- 499.8594479560852 seconds ---
+
+Data set/11 D38112.txt        Data set/20 X83427.txt
+* - 1.33808764801547
+--- 502.9306218624115 seconds ---
+
+Data set/12 D38113.txt        Data set/13 D38116.txt
+* - 0.581343375130833
+--- 510.79569602012634 seconds ---
+
+Data set/12 D38113.txt        Data set/14 D38114.txt
+* - 0.8299610876609982
+--- 516.3501329421997 seconds ---
+
+Data set/12 D38113.txt        Data set/15 D38115.txt
+* - 1.1012147131679106
+--- 520.293426990509 seconds ---
+
+Data set/12 D38113.txt        Data set/16 X97707.txt
+* - 1.109412711553256
+--- 523.9935479164124 seconds ---
+
+Data set/12 D38113.txt        Data set/17 X99256.txt
+* - 1.0997649267061917
+--- 527.7301979064941 seconds ---
+
+Data set/12 D38113.txt        Data set/18 Z29573.txt
+* - 1.3317028013924672
+--- 530.7848620414734 seconds ---
+
+Data set/12 D38113.txt        Data set/19 Y10524.txt
+* - 1.3062588163728575
+--- 533.9000680446625 seconds ---
+
+Data set/12 D38113.txt        Data set/20 X83427.txt
+* - 1.330250022685894
+--- 536.9737460613251 seconds ---
+
+Data set/13 D38116.txt        Data set/14 D38114.txt
+* - 0.9309668859198656
+--- 541.494950056076 seconds ---
+
+Data set/13 D38116.txt        Data set/15 D38115.txt
+* - 1.0986428905550256
+--- 545.2486100196838 seconds ---
+
+Data set/13 D38116.txt        Data set/16 X97707.txt
+* - 1.097308632497015
+--- 549.0197820663452 seconds ---
+
+Data set/13 D38116.txt        Data set/17 X99256.txt
+* - 1.0838830463215414
+--- 552.8079669475555 seconds ---
+
+Data set/13 D38116.txt        Data set/18 Z29573.txt
+* - 1.3257788507236015
+--- 555.8501219749451 seconds ---
+
+Data set/13 D38116.txt        Data set/19 Y10524.txt
+* - 1.3013752326195247
+--- 558.9763388633728 seconds ---
+
+Data set/13 D38116.txt        Data set/20 X83427.txt
+* - 1.3291280859060026
+--- 562.0306160449982 seconds ---
+
+Data set/14 D38114.txt        Data set/15 D38115.txt
+* - 1.1070502421976058
+--- 565.7022049427032 seconds ---
+
+Data set/14 D38114.txt        Data set/16 X97707.txt
+* - 1.1104987899394412
+--- 569.3983240127563 seconds ---
+
+Data set/14 D38114.txt        Data set/17 X99256.txt
+* - 1.102633830735757
+--- 573.1254639625549 seconds ---
+
+Data set/14 D38114.txt        Data set/18 Z29573.txt
+* - 1.3383837083861263
+--- 576.1345970630646 seconds ---
+
+Data set/14 D38114.txt        Data set/19 Y10524.txt
+* - 1.3164394733730767
+--- 579.2387988567352 seconds ---
+
+Data set/14 D38114.txt        Data set/20 X83427.txt
+* - 1.3331943235319756
+--- 582.6887419223785 seconds ---
+
+Data set/15 D38115.txt        Data set/16 X97707.txt
+* - 0.7619353233159081
+--- 588.546392917633 seconds ---
+
+Data set/15 D38115.txt        Data set/17 X99256.txt
+* - 1.1706387948444026
+--- 592.0148520469666 seconds ---
+
+Data set/15 D38115.txt        Data set/18 Z29573.txt
+* - 1.3510174381105955
+--- 594.9959769248962 seconds ---
+
+Data set/15 D38115.txt        Data set/19 Y10524.txt
+* - 1.3193761518065674
+--- 598.0546309947968 seconds ---
+
+Data set/15 D38115.txt        Data set/20 X83427.txt
+* - 1.3486535557910302
+--- 600.9942269325256 seconds ---
+
+Data set/16 X97707.txt        Data set/17 X99256.txt
+* - 1.1631799999128076
+--- 604.5357248783112 seconds ---
+
+Data set/16 X97707.txt        Data set/18 Z29573.txt
+* - 1.3412812661406446
+--- 607.4673018455505 seconds ---
+
+Data set/16 X97707.txt        Data set/19 Y10524.txt
+* - 1.3188982012684356
+--- 610.3503439426422 seconds ---
+
+Data set/16 X97707.txt        Data set/20 X83427.txt
+* - 1.3489490490116784
+--- 613.1814858913422 seconds ---
+
+Data set/17 X99256.txt        Data set/18 Z29573.txt
+* - 1.3511253058483763
+--- 616.0169758796692 seconds ---
+
+Data set/17 X99256.txt        Data set/19 Y10524.txt
+* - 1.3159697172902638
+--- 618.9175338745117 seconds ---
+
+Data set/17 X99256.txt        Data set/20 X83427.txt
+* - 1.3512753164320364
+--- 621.7360298633575 seconds ---
+
+Data set/18 Z29573.txt        Data set/19 Y10524.txt
+* - 1.1768089360720966
+--- 625.1544530391693 seconds ---
+
+Data set/18 Z29573.txt        Data set/20 X83427.txt
+* - 1.3016009228533847
+--- 628.1826088428497 seconds ---
+
+Data set/19 Y10524.txt        Data set/20 X83427.txt
+* - 1.2929270392559147
+--- 631.2482709884644 seconds ---
+
